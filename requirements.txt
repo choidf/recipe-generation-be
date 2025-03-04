@@ -1,0 +1,6 @@
+ultralytics==8.3.40 
+torch
+transformers==4.46.2
+fastapi
+numpy
+uvicorn
